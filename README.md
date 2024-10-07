@@ -19,7 +19,7 @@ This repository demonstrates a malware model that reads XOR-encrypted shellcode 
 
 ## Technical Overview
 
-### 1. XOR Shellcode Encryption
+#### 1. XOR Shellcode Encryption
 - **Encryption**: Shellcode is XOR-encrypted using a single-byte key (`0x46`).
 - **Decryption**: The malware reads the encrypted shellcode from the registry and decrypts it before injecting.
 
