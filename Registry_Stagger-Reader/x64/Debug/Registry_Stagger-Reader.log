@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\Win-Malware01\Desktop\Malwares folder\Registry_Stagger-Reader\Registry_Stagger-Reader\main.c(10,9): warning C4005: 'REG' : redéfinition de macro
+C:\Users\Win-Malware01\Desktop\Malwares folder\Registry_Stagger-Reader\Registry_Stagger-Reader\main.c(12,18): warning C4047: 'initialisation' : les niveaux d'indirection de 'DWORD' et de 'void *' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\Registry_Stagger-Reader\Registry_Stagger-Reader\main.c(58,19): warning C4554: '&' : vérifiez si la priorité des opérateurs n'est pas une cause possible d'erreur ; utilisez des parenthèses pour rendre les priorités plus claires
+C:\Users\Win-Malware01\Desktop\Malwares folder\Registry_Stagger-Reader\Registry_Stagger-Reader\main.c(110,19): warning C4554: '&' : vérifiez si la priorité des opérateurs n'est pas une cause possible d'erreur ; utilisez des parenthèses pour rendre les priorités plus claires
+C:\Users\Win-Malware01\Desktop\Malwares folder\Registry_Stagger-Reader\Registry_Stagger-Reader\main.c(122,45): warning C4047: 'fonction' : les niveaux d'indirection de 'BOOL' et de 'void *' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\Registry_Stagger-Reader\Registry_Stagger-Reader\main.c(122,45): warning C4024: 'OpenProcess' : types différents pour le paramètre formel et réel 2
+  Registry_Stagger-Reader.vcxproj -> C:\Users\Win-Malware01\Desktop\Malwares folder\Registry_Stagger-Reader\x64\Debug\Registry_Stagger-Reader.exe
